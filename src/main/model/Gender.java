@@ -1,5 +1,5 @@
 
-package com.java8;
+package model;
 
 public enum Gender
 {

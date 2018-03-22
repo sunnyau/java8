@@ -1,17 +1,13 @@
 
-package com.java8;
+package stream;
 
-import static org.junit.Assert.assertEquals;
+import  org.junit.Before;
+import  org.junit.Test;
 
-import java.util.Arrays;
-import java.util.Comparator;
-import java.util.HashMap;
-import java.util.List;
-import java.util.Map;
+import java.util.*;
 import java.util.stream.Collectors;
 
-import org.junit.Before;
-import org.junit.Test;
+import static org.junit.Assert.assertEquals;
 
 /**
  * Java 8 stream tutorial.
